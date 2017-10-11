@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sync version="1.0" name="Simple Networking">
+  <meta>
+    <client>
+      <limitStorageSpace>False</limitStorageSpace>
+      <base>https://marinellitv1800.github.io/MarinelliTV1800/</base>
+      <next>/current-sync.xml</next>
+      <event>EVENT</event>
+      <error>ERROR</error>
+      <deviceerror>DEVICEERROR</deviceerror>
+      <uploadusage>UPLOADUSAGE</uploadusage>
+      <getfile>GETFILE</getfile>
+      <uploadlogs />
+      <uploadsnapshots />
+      <timeBetweenNetConnects>300</timeBetweenNetConnects>
+      <contentDownloadsRestricted>no</contentDownloadsRestricted>
+      <playbackLoggingEnabled>yes</playbackLoggingEnabled>
+      <eventLoggingEnabled>yes</eventLoggingEnabled>
+      <diagnosticLoggingEnabled>yes</diagnosticLoggingEnabled>
+      <stateLoggingEnabled>yes</stateLoggingEnabled>
+      <variableLoggingEnabled>no</variableLoggingEnabled>
+      <uploadLogFilesAtBoot>no</uploadLogFilesAtBoot>
+      <uploadLogFilesAtSpecificTime>no</uploadLogFilesAtSpecificTime>
+      <uploadLogFilesTime>960</uploadLogFilesTime>
+      <enableSerialDebugging>False</enableSerialDebugging>
+      <enableSystemLogDebugging>True</enableSystemLogDebugging>
+      <deviceScreenShotsEnabled>yes</deviceScreenShotsEnabled>
+      <deviceScreenShotsInterval>900</deviceScreenShotsInterval>
+      <deviceScreenShotsCountLimit>5</deviceScreenShotsCountLimit>
+      <deviceScreenShotsQuality>50</deviceScreenShotsQuality>
+      <deviceScreenShotsDisplayPortrait>False</deviceScreenShotsDisplayPortrait>
+    </client>
+    <server>
+      <account>ACCOUNT</account>
+      <user />
+      <password />
+      <enableUnsafeAuthentication>False</enableUnsafeAuthentication>
+      <group>GROUPNAME</group>
+    </server>
+  </meta>
+  <files>
+    <download>
+      <name>autoplay-Project 1.xml</name>
+      <hash method="SHA1">933ea0c19d8be40ccdd724b475a6a648c104a4b1</hash>
+      <size>17038</size>
+      <link>https://marinellitv1800.github.io/MarinelliTV1800//pool/b/1/sha1-933ea0c19d8be40ccdd724b475a6a648c104a4b1</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>Project 1.bml</name>
+      <hash method="SHA1">281aa3ddb188af4b0b76801bd339cdaad79aed4c</hash>
+      <size>12859</size>
+      <link>https://marinellitv1800.github.io/MarinelliTV1800//pool/4/c/sha1-281aa3ddb188af4b0b76801bd339cdaad79aed4c</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>Dbodycombat.jpg</name>
+      <hash method="SHA1">4a89f639fbd1f796361de7dee9d2203cd4759d18</hash>
+      <size>21181</size>
+      <link>https://marinellitv1800.github.io/MarinelliTV1800//pool/1/8/sha1-4a89f639fbd1f796361de7dee9d2203cd4759d18</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>Dbodypum.jpg</name>
+      <hash method="SHA1">b505cade7b5d6a0afe5919b6f10138e33492f95a</hash>
+      <size>17201</size>
+      <link>https://marinellitv1800.github.io/MarinelliTV1800//pool/5/a/sha1-b505cade7b5d6a0afe5919b6f10138e33492f95a</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>Aikido Puidoux.png</name>
+      <hash method="SHA1">5f47e8ece19e7849d876207d70918c606111317d</hash>
+      <size>32509</size>
+      <link>https://marinellitv1800.github.io/MarinelliTV1800//pool/7/d/sha1-5f47e8ece19e7849d876207d70918c606111317d</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>DFitness la Tour Titre plannig.png</name>
+      <hash method="SHA1">5a1a196933755dbeadc032b0414e946bdcf90b3f</hash>
+      <size>287825</size>
+      <link>https://marinellitv1800.github.io/MarinelliTV1800//pool/3/f/sha1-5a1a196933755dbeadc032b0414e946bdcf90b3f</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-404.html</name>
+      <hash method="SHA1">740fc96551a29aba076ff447fd3f8973c688e2d7</hash>
+      <size>3393</size>
+      <link>https://marinellitv1800.github.io/MarinelliTV1800//pool/d/7/sha1-740fc96551a29aba076ff447fd3f8973c688e2d7</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-bas.html</name>
+      <hash method="SHA1">8899e2dbe1a4b7399b9a18fa21830d2d1934ec48</hash>
+      <size>878</size>
+      <link>https://marinellitv1800.github.io/MarinelliTV1800//pool/4/8/sha1-8899e2dbe1a4b7399b9a18fa21830d2d1934ec48</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-favicon.ico</name>
+      <hash method="SHA1">a1bae6f0516a56cf140aa7177e9559418fe8f85e</hash>
+      <size>1150</size>
+      <link>https://marinellitv1800.github.io/MarinelliTV1800//pool/5/e/sha1-a1bae6f0516a56cf140aa7177e9559418fe8f85e</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-index.html</name>
+      <hash method="SHA1">87d1eb6a86ba28bfa8008f10be7136fb0ed15e0c</hash>
+      <size>201</size>
+      <link>https://marinellitv1800.github.io/MarinelliTV1800//pool/0/c/sha1-87d1eb6a86ba28bfa8008f10be7136fb0ed15e0c</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-robots.txt</name>
+      <hash method="SHA1">3ab05768bd908347af276df97617571b5f950c28</hash>
+      <size>31</size>
+      <link>https://marinellitv1800.github.io/MarinelliTV1800//pool/2/8/sha1-3ab05768bd908347af276df97617571b5f950c28</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-fonts/glyphicons-halflings-regular.eot</name>
+      <hash method="SHA1">f3a9a3b609133c3d21d6b42abbf7f43bd111df72</hash>
+      <size>20335</size>
+      <link>https://marinellitv1800.github.io/MarinelliTV1800//pool/7/2/sha1-f3a9a3b609133c3d21d6b42abbf7f43bd111df72</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-fonts/glyphicons-halflings-regular.svg</name>
+      <hash method="SHA1">66b1fc67e37d01ee45ca75c4eefb144d2dbe98fa</hash>
+      <size>62926</size>
+      <link>https://marinellitv1800.github.io/MarinelliTV1800//pool/f/a/sha1-66b1fc67e37d01ee45ca75c4eefb144d2dbe98fa</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-fonts/glyphicons-halflings-regular.ttf</name>
+      <hash method="SHA1">aafafdc09404c4aa4447d7e898a2183def9cc1b1</hash>
+      <size>41280</size>
+      <link>https://marinellitv1800.github.io/MarinelliTV1800//pool/b/1/sha1-aafafdc09404c4aa4447d7e898a2183def9cc1b1</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-fonts/glyphicons-halflings-regular.woff</name>
+      <hash method="SHA1">22037a3455914e5662fa51a596677bdb329e2c5c</hash>
+      <size>23320</size>
+      <link>https://marinellitv1800.github.io/MarinelliTV1800//pool/5/c/sha1-22037a3455914e5662fa51a596677bdb329e2c5c</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-html/landing/landing.html</name>
+      <hash method="SHA1">f71be1e9fc8dc38cadb5e3cbf8fcad4f7368a9e0</hash>
+      <size>886</size>
+      <link>https://marinellitv1800.github.io/MarinelliTV1800//pool/e/0/sha1-f71be1e9fc8dc38cadb5e3cbf8fcad4f7368a9e0</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-html/remote-snapshot/configure-snapshots.html</name>
+      <hash method="SHA1">19aebb30bc487d5ce7b7ff009d6e2f1746dddcfe</hash>
+      <size>4216</size>
+      <link>https://marinellitv1800.github.io/MarinelliTV1800//pool/f/e/sha1-19aebb30bc487d5ce7b7ff009d6e2f1746dddcfe</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-html/remote-snapshot/view-snapshots.html</name>
+      <hash method="SHA1">1bfae55189a796ae5b6daa90e56c09534312b251</hash>
+      <size>2243</size>
+      <link>https://marinellitv1800.github.io/MarinelliTV1800//pool/5/1/sha1-1bfae55189a796ae5b6daa90e56c09534312b251</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-images/bg_main_background.ec008440.png</name>
+      <hash method="SHA1">af0bc48cf35bfaee4f21f99a8e48594fa514ee8f</hash>
+      <size>98</size>
+      <link>https://marinellitv1800.github.io/MarinelliTV1800//pool/8/f/sha1-af0bc48cf35bfaee4f21f99a8e48594fa514ee8f</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-images/bs-logo.558b3252.png</name>
+      <hash method="SHA1">19240f186609ea1cbf728c3687f75e1bcb977987</hash>
+      <size>2914</size>
+      <link>https://marinellitv1800.github.io/MarinelliTV1800//pool/8/7/sha1-19240f186609ea1cbf728c3687f75e1bcb977987</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-scripts/brightsign.087c41eb.js</name>
+      <hash method="SHA1">fa1157d9899362291d7f289aa53bc7ef54c0fd50</hash>
+      <size>8261</size>
+      <link>https://marinellitv1800.github.io/MarinelliTV1800//pool/5/0/sha1-fa1157d9899362291d7f289aa53bc7ef54c0fd50</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-scripts/oldieshim.76f279db.js</name>
+      <hash method="SHA1">370f5dbee879aaad2c37b589123017530e064487</hash>
+      <size>20978</size>
+      <link>https://marinellitv1800.github.io/MarinelliTV1800//pool/8/7/sha1-370f5dbee879aaad2c37b589123017530e064487</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-scripts/vendor.93fc20a3.js</name>
+      <hash method="SHA1">1a7e3e7ff6c2ee0da3867f29173da34d18b6e4d7</hash>
+      <size>329963</size>
+      <link>https://marinellitv1800.github.io/MarinelliTV1800//pool/d/7/sha1-1a7e3e7ff6c2ee0da3867f29173da34d18b6e4d7</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-styles/brightsign.1ea7f101.css</name>
+      <hash method="SHA1">41989e2ff79dd7bd1b294cb382e654c234a38b46</hash>
+      <size>1276</size>
+      <link>https://marinellitv1800.github.io/MarinelliTV1800//pool/4/6/sha1-41989e2ff79dd7bd1b294cb382e654c234a38b46</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-styles/vendor.51dd6dba.css</name>
+      <hash method="SHA1">e0ed151874827272f4caadbdcf45f82075472bcb</hash>
+      <size>132555</size>
+      <link>https://marinellitv1800.github.io/MarinelliTV1800//pool/c/b/sha1-e0ed151874827272f4caadbdcf45f82075472bcb</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>autorun.brs</name>
+      <hash method="SHA1">02c7d34e13aa5ce5f925f9f4d0e853aac42c6488</hash>
+      <size>1113637</size>
+      <link>https://marinellitv1800.github.io/MarinelliTV1800//pool/8/8/sha1-02c7d34e13aa5ce5f925f9f4d0e853aac42c6488</link>
+      <group>script</group>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>autoschedule.xml</name>
+      <hash method="SHA1">9ae4e8c0e0beb3cd38a3e9dd666c05a4c3ede0aa</hash>
+      <size>931</size>
+      <link>https://marinellitv1800.github.io/MarinelliTV1800//pool/a/a/sha1-9ae4e8c0e0beb3cd38a3e9dd666c05a4c3ede0aa</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>resources.txt</name>
+      <hash method="SHA1">123580d24f72d21dbb92628f94e64a43ac0e69c1</hash>
+      <size>2299</size>
+      <link>https://marinellitv1800.github.io/MarinelliTV1800//pool/c/1/sha1-123580d24f72d21dbb92628f94e64a43ac0e69c1</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>autoplugins.brs</name>
+      <hash method="SHA1">a0acb3e76c85e48d326e802428b23f0325667410</hash>
+      <size>146</size>
+      <link>https://marinellitv1800.github.io/MarinelliTV1800//pool/1/0/sha1-a0acb3e76c85e48d326e802428b23f0325667410</link>
+      <group>script</group>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>_deviceWebPage.html</name>
+      <hash method="SHA1">ea99df6e9103c0d9dd4b419519dbfbc3c97ef6df</hash>
+      <size>116438</size>
+      <link>https://marinellitv1800.github.io/MarinelliTV1800//pool/d/f/sha1-ea99df6e9103c0d9dd4b419519dbfbc3c97ef6df</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>_deviceIdWebPage.html</name>
+      <hash method="SHA1">a3eeb8009617a56fa412802e061ec931a6bd0fb1</hash>
+      <size>117474</size>
+      <link>https://marinellitv1800.github.io/MarinelliTV1800//pool/b/1/sha1-a3eeb8009617a56fa412802e061ec931a6bd0fb1</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>featureMinRevs.xml</name>
+      <hash method="SHA1">fdbac43a6c90bd6ec10d808d00e913ffca2dd709</hash>
+      <size>1017</size>
+      <link>https://marinellitv1800.github.io/MarinelliTV1800//pool/0/9/sha1-fdbac43a6c90bd6ec10d808d00e913ffca2dd709</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BoseProducts.xml</name>
+      <hash method="SHA1">5b6caa887432752a73ab434d13a5f7d95e795e2f</hash>
+      <size>13061</size>
+      <link>https://marinellitv1800.github.io/MarinelliTV1800//pool/2/f/sha1-5b6caa887432752a73ab434d13a5f7d95e795e2f</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <delete>
+      <pattern>*.brs</pattern>
+    </delete>
+    <delete>
+      <pattern>*.rok</pattern>
+    </delete>
+    <delete>
+      <pattern>*.bsfw</pattern>
+    </delete>
+    <ignore>
+      <pattern>*</pattern>
+    </ignore>
+  </files>
+</sync>
